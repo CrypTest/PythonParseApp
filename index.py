@@ -1,6 +1,6 @@
 """
 Application: Python JSON-Parser
-Github: https://github.com/CrypTest/PythonParse
+Github: https://github.com/CrypTest/PythonParseApp
 Author: Aslan Allakhkuliev
 Created: 02/02/2018
 """
